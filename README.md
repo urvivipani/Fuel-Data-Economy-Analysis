@@ -132,19 +132,3 @@ Control System (Test Car List)
 
 
       ===================================================
-
-
-Database Formats
-----------------
-
-There are different formats for these database files depending on
-the model year.  Following are the database formats for:
-
-1998 and later
-1985-1997
-1984,
-1978-1983
-
-
-   =================================================================
-
